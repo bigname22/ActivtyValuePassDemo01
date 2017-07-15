@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityPassValueDemo01</string>
+    <string name="title_activity_receive_value">ReceiveValueActivity</string>
+</resources>
